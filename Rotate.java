@@ -1,6 +1,9 @@
 import java.util.*;
-class Main
+class Rotate
 {
+    //the space complexity of this program is O(1).
+    //In-place operations:all the operations are performed in place, no additional arrays are used
+    //And the time complexity of this code is  O(n), where n is the size of the array
     public static void main(String args[])
     {
         Scanner in=new Scanner(System.in);
